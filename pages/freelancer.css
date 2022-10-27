@@ -1,0 +1,405 @@
+header {
+    width: 100%;
+    padding: 10px;
+    border: 1px; color: white;
+}
+
+.clear {
+    clear: both;
+}
+
+.container{
+    width: 1210px; 
+    margin: auto;
+}
+
+.left{
+    float: left; 
+    width: 50%; 
+    margin: auto;
+}
+
+.right{
+    float: right; 
+    width: 50%; 
+    margin: auto;
+    text-align: right;
+}
+
+.right .project{
+    background-color: #f20091;
+    size: 10px;
+    padding: 8px;
+    padding-left: 13px;
+    padding-right: 13px;
+    color: #f7f7f7;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 550;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.left a{
+    margin: 20px;
+    position: relative;
+    top: -13px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    font-weight: 530;
+}
+
+.right a{
+    margin: 20px;
+    position: relative;
+    top: 5px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    left: -10px;
+    font-weight: 530;
+}
+
+img {
+    width: 130px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: black;
+}
+
+nav {
+    background-color: #0e1724;
+    padding: 30px;
+    font-size: 17px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 13px;
+    color: #f7f7f7;
+    margin: 17px;
+    font-weight: 400;
+}
+
+.pc{
+    width: 100%;
+    opacity: 80%;
+    height: 100%;
+}
+
+.text{
+    background-image: url(/pages/How-to-hire-web-developers-from-India.gif);
+   width: 100%;
+   padding-top: 10px;
+}
+
+.text h1{
+    padding-top: 250px;
+    color: #f7f7f7;
+    font-size: 50px;
+    width: 580px;
+}
+
+.text h2{
+    color: #f7f7f7;
+    width: 580px;
+    font-size: 21px;
+}
+
+.pink{
+    background-color: #f20091;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border: #f7f7f7;
+    box-sizing: border-box;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+    color: #f7f7f7;
+}
+
+.glass{
+    border: #ffffff;
+    box-sizing: border-box;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+    color: #f7f7f7;
+     /* From https://css.glass */
+background: rgba(255, 255, 255, 0.23);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(0.6px);
+-webkit-backdrop-filter: blur(0.6px);
+border: 1px solid rgba(255, 255, 255, 0.99);
+}
+
+.button{
+    padding-bottom: 250px;
+
+}
+
+h4{
+    color: #4d525b;
+    font-size: 20px;
+    font-weight: bolder;
+    float: left;
+    padding-left: -5px;
+}
+
+.logos{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-top: -15px;
+    padding-left: 5px;
+}
+
+.chat{
+    align-content: center;
+}
+
+.pc{
+    width: 60px;
+}
+
+.flex{
+    display: flex;
+}
+
+h3{
+    width: 300px;
+}
+
+.pai8{
+    display: flex;
+    gap: 25px;
+    padding-top: 80px;
+}
+
+hr{
+    width: 1400px;
+}
+
+h1{
+    font-size: 45px;
+    padding-top: 100px;
+}
+
+.h{
+    font-size: 24px;
+}
+
+.pai8 h3{
+    font-weight: 200;
+}
+
+.r2{
+    width: 300px;
+}
+.r3{
+    width: 300px;
+}
+.r4{
+    width: 300px;
+}
+.r5{
+    width: 300px;
+}
+.r6{
+    width: 300px;
+}
+.r7{
+    width: 300px;
+}
+.r8{
+    width: 300px;
+}
+.r9{
+    width: 300px;
+}
+.r1{
+    width: 300px;
+}
+.r11{
+    width: 300px;
+}
+.r12{
+    width: 300px;
+}
+.r13{
+    width: 300px;
+}
+.imags{
+    display: flex;
+    gap: 25px;
+}
+.h22 h2{
+    font-weight: 200;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.but{
+    background-color: #f20091;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border: #f7f7f7;
+    padding: 20px;
+    font-size: 20px;
+    color: #f7f7f7;
+}
+.bt{
+    padding-left: 500px;
+    padding-top: 60px;
+    padding-bottom: 65px;
+}
+.h222 h1{
+    font-size: 50px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.smi{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+.smig{
+    width: 30px;
+}
+.imp a{
+    font-size: 14px;
+    font-weight: 100;
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.imp{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 200px;
+}
+
+.bckimg1{
+    width: 50%;
+    background-image: url(https://www.f-cdn.com/assets/main/en/assets/home/api-enterprise/api-upsell-v3.jpg?image-optimizer=force&width=965);
+    
+}
+
+.bckimg2{
+    width: 50%;
+    background-image: url(https://www.f-cdn.com/assets/main/en/assets/home/api-enterprise/enterprise-upsell-v3.jpg?image-optimizer=force&width=965);
+    padding-bottom: 170px;
+}
+.split{
+    display: flex;
+    padding-top: 70px;
+}
+.bckimg1 h2{
+    color: #f7f7f7;
+    margin-left: 345px;
+    margin-top: 280px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.bckimg1 h1{
+    color: #f7f7f7;
+    margin-left: 345px;
+    margin-top: -115px;
+    width: 600px;
+}
+.bckimg1 p{
+    color: #f7f7f7;
+    margin-left: 345px;
+    font-size: 20px;
+    width: 550px;
+    margin-top: -5px;
+}
+.bttn1{
+    background-color: #f20091;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border: #f7f7f7;
+    padding: 10px;
+    margin-left: 345px;
+    margin-top: 20px;
+    color: #f7f7f7;
+}
+.bttn2{
+    background-color: #f20091;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border: #f7f7f7;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 60px;
+    color: #f7f7f7;
+}
+.bckimg2 h2{
+    color: #f7f7f7;
+    margin-top: 280px;
+    font-size: 32px;
+    font-weight: 700;
+    margin-left: 60px;
+}
+.bckimg2 h1{
+    color: #f7f7f7;
+    margin-top: -115px;
+    width: 600px;
+    margin-left: 60px;
+}
+.bckimg2 p{
+    color: #f7f7f7;
+    font-size: 20px;
+    width: 550px;
+    margin-top: -5px;
+    margin-left: 60px;}
+
+.ftr{
+        background-color: #0e1724;
+    }
+.globe{
+    width: 17px;  
+}
+.ft11{padding-top: 40px;
+    padding-bottom: 35px;
+}
+.ft1 a{
+    text-decoration: none;
+    color: #f7f7f7;
+    margin-left: 10px;
+}
+.a2{
+    margin-top: 15px;
+}
+.ft2 h1{
+    font-size: 18px;
+    color: #f7f7f7;
+}
+
+.aaa{
+    text-decoration: none;
+    color: #f7f7f7;
+}
+.ft3 h1{
+    font-size: 18px;
+    color: #f7f7f7;
+}

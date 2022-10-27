@@ -1,0 +1,27 @@
+body{
+    background:#eee;
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-image: url(https://i.guim.co.uk/img/media/1a0547ebd159760fef75242137a5c6978243dc85/0_380_5700_3420/master/5700.jpg?width=465&quality=85&dpr=1&s=none);
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.result-item{
+    background: white;
+    margin: 20px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #d8d8d8;
+    }
+
+    body> div:nth-child(2){ 
+        background-color: yellow;
+    }
+
+    body> div:nth-child(4){ 
+        background-color: paleturquoise;
+    }
+
+    body> div:nth-child(3){ 
+        background-color: greenyellow;
+    }

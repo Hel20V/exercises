@@ -1,0 +1,29 @@
+.Search-bar{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    background-color: transparent;
+
+}
+
+.Search-bar input,
+.Search-bar button{
+    padding: 10px 15px;
+    font-size: 17px;
+    border: 1px solid rgb(248, 244, 244);
+}
+.Search-bar button{
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width: 200px;
+}
+
+.Search-bar input{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 600px;
+}
